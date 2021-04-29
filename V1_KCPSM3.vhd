@@ -1,6 +1,6 @@
 --
 -------------------------------------------------------------------------------------------
--- Copyright © 2010-2013, Xilinx, Inc.
+-- Copyright Â© 2010-2013, Xilinx, Inc.
 -- This file contains confidential and proprietary information of Xilinx, Inc. and is
 -- protected under U.S. and international copyright and other intellectual property laws.
 -------------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@
 -- MATERIALS ARE MADE AVAILABLE "AS IS" AND WITH ALL FAULTS, AND XILINX HEREBY
 -- DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS, IMPLIED, OR STATUTORY,
 -- INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT,
--- OR FITNESS FOR ANY PARTICULAR PURPOSE; and (2) Xilinx shall not be liable
+-- OR FITNESS FOR ANY PARTICULAR PURPOSE; and (2) Xilinx shall not be liable 
 -- (whether in contract or tort, including negligence, or under any other theory
 -- of liability) for any loss or damage of any kind or nature related to, arising
 -- under or in connection with these materials, including for any direct, or any
